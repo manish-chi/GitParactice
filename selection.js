@@ -18,4 +18,9 @@ function feature2(feature){
     console.log('this is feature2 in the making.');
 }
 
+function feature3(feature){
+    console.log('now we are doing something strange lets get this done!');
+    console.log('this is feature3 in the making.');
+}
+
 select('manish', 3);
