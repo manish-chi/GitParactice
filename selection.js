@@ -18,6 +18,7 @@ function feature2(feature){
 }
 
 function feature3(feature){
+    console.log('now we are doing something strange lets get this done!');
     console.log('this is feature3 in the making.');
 }
 
