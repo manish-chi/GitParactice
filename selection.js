@@ -11,6 +11,7 @@ function deselect(username) {
 function feature1(feature) {
     console.log('I need to modify something in feature1. So we are using feature1 with modifications');
     console.log('you have added feature now!');
+    console.log('This is something very useful');
 }
 
 function feature2(feature){
