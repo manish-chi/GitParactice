@@ -8,7 +8,8 @@ function deselect(username) {
     console.log(`${username} can't be deselected..`);
 }
 
-function feature1(feature){
+function feature1(feature) {
+    console.log('I need to modify something in feature1. So we are using feature1 with modifications');
     console.log('you have added feature now!');
 }
 
