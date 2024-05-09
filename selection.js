@@ -13,4 +13,8 @@ function feature1(feature) {
     console.log('you have added feature now!');
 }
 
+function feature2(feature){
+    console.log('this is feature2 in the making.');
+}
+
 select('manish', 3);
