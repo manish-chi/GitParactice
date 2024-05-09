@@ -3,8 +3,13 @@ function select(username, count) {
 }
 
 function deselect(username) {
-    let number = 4 * 2;
+    console.log('are you finding it hard');
+    console.log('can this be changed to something big');
     console.log(`${username} can't be deselected..`);
+}
+
+function feature1(feature){
+    console.log('you have added feature now!');
 }
 
 select('manish', 3);
